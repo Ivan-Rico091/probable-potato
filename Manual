@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Manual Raspberry pi 4 </title>
+    <style>
+        body {
+            background-color: #48E120;
+        }
+    </style>
+    <link rel="stylesheet" href="Estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Manual Raspberry pi 4</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#instalacion">Instalación</a></li>
+            <li><a href="#uso">Uso</a></li>
+            <li><a href="nombre_carpeta">Ejercicios Raspberry pi 4</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introduccion">
+            <h2>Introducción</h2>
+            <p>En esta sección, se proporciona una breve descripción del proyecto y su propósito.</p>
+        </section>
+
+        <section id="requisitos">
+            <h2>Requisitos del Sistema</h2>
+            <p>En esta sección, se describen los requisitos mínimos del sistema para ejecutar el proyecto.</p>
+        </section>
+
+        <section id="instalacion">
+            <h2>Instalación</h2>
+            <p>En esta sección, se proporcionan instrucciones detalladas sobre cómo instalar el proyecto.</p>
+        </section>
+
+        <section id="uso">
+            <h2>Uso</h2>
+            <p>En esta sección, se proporcionan instrucciones detalladas sobre cómo utilizar el proyecto, incluyendo todas las funcionalidades y características.</p>
+        </section>
+
+        <section id="solucionproblemas">
+            <h2>Solución de Problemas</h2>
+            <p>En esta sección, se proporcionan soluciones a problemas comunes que pueden ocurrir al utilizar el proyecto.</p>
+        </section>
+
+        <section id="creditos">
+            <h2>Créditos</h2>
+            <p>En esta sección, se agradecen a las personas que ayudaron en la creación del proyecto.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Derechos de autor &copy; Año - Nombre del Proyecto</p>
+    </footer>
+</body>
+</html>
